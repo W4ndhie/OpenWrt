@@ -1,3 +1,3 @@
 # OpenWrt
-Copyright by Andi Iswandi ® 2021
+Copyright by @W4ndhie ® 2021
 Thank You ! 🤝
