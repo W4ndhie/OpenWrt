@@ -1,3 +1,3 @@
 # OpenWrt
-Copyright by @W4ndhie ® 2021
+Copyright by <url>https://github.com/W4ndhie/</url> ® 2021
 Thank You ! 🤝
